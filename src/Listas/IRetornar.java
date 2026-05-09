@@ -1,6 +1,6 @@
 package Listas;
 
-public interface IRetornar<R> {
+public interface IRetornar<R,T> {
 
-    R retornar();
+    R retornar(T t);
 }

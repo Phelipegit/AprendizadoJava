@@ -18,6 +18,5 @@ public class Output {
         }
 
         //METHOD 2
-        Optional<>
     }
 }
